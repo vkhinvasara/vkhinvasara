@@ -1,4 +1,4 @@
-##Hello I'm Vaibhav Khinvasara, a Computer Science student.
+#Hello I'm Vaibhav Khinvasara, a Computer Science student.
  - Love Rust.
  - Aspiring Backend Developer.
  - Know it all.
