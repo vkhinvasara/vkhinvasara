@@ -5,4 +5,5 @@
  - Django, Actix-web, svelte, react etc etcc..
 
 ![](https://komarev.com/ghpvc/?username=vkhinvasara)
-![Snake animation](https://github.com/vkhinvasara/vkhinvasara/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
