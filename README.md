@@ -24,7 +24,7 @@
 ### 📫 Let's Connect!
 
 - 🐦 Twitter: [https://x.com/Vai4bv]
-- 💼 LinkedIn: [https://www.linkedin.com/in/vaibhav-khinvasara-61830020b/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/vkhinvasara]
 - 📧 Email: [vaibhavkhinvasara@gmail.com]
 
 
