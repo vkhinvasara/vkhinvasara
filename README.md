@@ -1,25 +1,19 @@
 ✌️ Hey, I'm Vaibhav K ✌️
 
 💻 CS Student | Caffiene fene👨‍💻
-
-✨ I'm all about building the future, one line of code at a time. From Rust's power to Django's elegance, and all the JavaScript magic in between. ✨
-
-🎧 Black metal head. 
-
-
 ---
 
 ### 🛠️ Tech Stack
 
 - **Languages:** Rust, Python, JavaScript/TypeScript
-- **Frameworks:** Django, React (maybe?), Next.js (who knows?)
-- **Other:** Git, Docker (gotta containerize!), VS Code (my second home)
+- **Frameworks:** Django, React, Next.js
+- **Other:** Git, Docker, VS Code
 
 ### 🌱 Currently Learning
 
-- WebAssembly (the future of web dev!)
-- Actix-Web (faster faster faster)
-- AI/ML (because who isn't?)
+- WebAssembly
+- Actix-Web
+- AI/ML
 
 ### 📫 Let's Connect!
 
