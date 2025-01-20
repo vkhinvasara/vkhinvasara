@@ -1,11 +1,4 @@
 
-### 📫 Let's Connect!
-
-- 🐦 Twitter: [https://x.com/Vai4bv]
-- 💼 LinkedIn: [https://www.linkedin.com/in/vkhinvasara]
-- 📧 Email: [vaibhavkhinvasara@gmail.com]
-
-
 ![](https://komarev.com/ghpvc/?username=vkhinvasara)
 
 
