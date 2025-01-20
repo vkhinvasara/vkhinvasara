@@ -1,19 +1,3 @@
-✌️ Hey, I'm Vaibhav K ✌️
-
-💻 CS Student | Caffiene fene👨‍💻
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Rust, Python, JavaScript/TypeScript
-- **Frameworks:** Django, React, Next.js
-- **Other:** Git, Docker, VS Code
-
-### 🌱 Currently Learning
-
-- WebAssembly
-- Actix-Web
-- AI/ML
 
 ### 📫 Let's Connect!
 
